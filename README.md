@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm el mustapha ej-jamaay</h1>
 <h3 align="center">A passionate back-end developer from Morocco</h3>
 <div style="display: flex; justify-content: center;">
-  <a href="https://github.com/oakoudad/badge42" style="text-center">
+  <a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center;">
     <img src="https://badge.mediaplus.ma/binary/eej-jama" alt="eej-jama's 42 stats" />
   </a>
-</div><p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
