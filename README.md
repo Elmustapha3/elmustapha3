@@ -2,7 +2,7 @@
 <h3 align="center">A back-end developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; width : 300px; justify-content: center;">
   <a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center;">
     <img src="https://badge.mediaplus.ma/binary/eej-jama" alt="eej-jama's 42 stats" />
   </a>
