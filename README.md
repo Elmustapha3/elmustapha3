@@ -1,6 +1,8 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
 <h1 align="center">Hi 👋, I'm el mustapha ej-jamaay</h1>
 <h3 align="center">A passionate back-end developer from Morocco</h3>
-<a align="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/eej-jama" alt="eej-jama's 42 stats" /></a>
+<a class="text-center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/eej-jama" alt="eej-jama's 42 stats" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
 
 <h3 align="left">Connect with me:</h3>
