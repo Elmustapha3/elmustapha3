@@ -1,4 +1,4 @@
-<h1 align="center">Hi😁, I'm el mustapha ej-jamaay</h1>
+<h1 align="center">Hi😁, I'm El mustapha Ej-jamaay</h1>
 <h3 align="center">A back-end developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
