@@ -8,11 +8,11 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **DevOps and MLOps technologies**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **React and Django**
 
-- 📫 How to reach me **mustejjamaay2001@gmail.com**
+- 📫 How to reach me **elmustapha.ej-jamaay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
