@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm El mustapha Ej-jamaay</h1>
 <h3 align="center">I am a GIS and a Full stack web developer from Morocco</h3>
-
+<p align="center">Highly motivated and enthusiastic Software Engineer with a strong passion for Full Stack development. Master's degree in the engineering of information systems at the faculty of science Semlalia Marrakech, Cadi Ayyad university ,and currently Digital Architect Student at 1337 Coding School in the UM6P BenGuerir. Skilled in JavaScript, Python, JAVA and some of its frameworks and libraries and SQL (MySQL, MariaDB and PostgreSQL). I am very excited to work and contribute to innovative projects.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
 <div style="display: flex; width : 300px; justify-content: center;">
   <a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center;">
