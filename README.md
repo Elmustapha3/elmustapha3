@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm El Mustapha EJ-JAMAAY from Morocco</h1>
-<h3 align="center">Experienced in GIS and a Full stack Development and Currently MLOps Engineer at UM6P BenGuerir</h3>
-<p align="center">Highly motivated and enthusiastic Software/GIS/MLOps Engineer with a strong passion for Machine Learning, Master's degree in the engineering of information systems at the faculty of science Semlalia Marrakech, Cadi Ayyad university ,and currently MLOps Engineer at the UM6P BenGuerir and Digital Architect Student at 1337 Coding School also in the UM6P BenGuerir. Skilled in JavaScript, Python, JAVA and some of its frameworks and libraries and SQL (MySQL, MariaDB and PostgreSQL). I am very excited to work and contribute to innovative projects.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmustapha3&label=Profile%20views&color=0e75b6&style=flat" alt="elmustapha3" /> </p>
 <div style="display: flex; width : 300px; justify-content: center;">
   <a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center;">
